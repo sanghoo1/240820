@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* css 주석 방식 */
+
+/*
+ css 기본 구조
+ 선택자 selector { 속성 property: 값 value;}
+*/
+
+/* 타입 선택자: HTML 요소를 그대로 가져와 사용 */
+h1 {  color:orange;}
